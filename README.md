@@ -1,8 +1,8 @@
 # Blog App
  
-[live Site](https://a-blog-site-app.netlify.app/blog/)
+[live Site](https://z-my-blog.netlify.app/)
 
-![Blog App](preview.png)
+
 
 This is the code repo of Blog Website. There is the Tech i used:
   * [React](https://reactjs.org)

@@ -1,7 +1,7 @@
 import React from 'react';
 import * as styles from '../style/main.module.css';
 import { Link } from 'gatsby';
-import { graphql,  useStaticQuery } from "gatsby";
+import { graphql, useStaticQuery } from "gatsby";
 import { documentToReactComponents } from "@contentful/rich-text-react-renderer";
 import Navbar from '../components/Navbar';
 

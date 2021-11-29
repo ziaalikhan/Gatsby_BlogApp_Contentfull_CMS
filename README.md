@@ -4,7 +4,7 @@
 
 ![Blog App](preview.png)
 
-This is the code repo of Multi Step Form App. There I used:
+This is the code repo of Blog Website. There is the Tech i used:
   * [React](https://reactjs.org)
   * [Contentful](https://www.contentful.com/)
   * [Gatsby Js](https://www.gatsbyjs.com/)
